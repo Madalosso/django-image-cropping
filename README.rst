@@ -41,7 +41,7 @@ Installation
 
 #. If you haven't installed easy_thumbnails already, install it::
 
-    pip install easy_thumbnails
+    pip install easy-thumbnails
 
 #. Add ``easy_thumbnails`` and ``image_cropping`` to your ``INSTALLED_APPS``.
 
